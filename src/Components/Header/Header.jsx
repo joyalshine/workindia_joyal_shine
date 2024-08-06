@@ -2,7 +2,7 @@ import React from 'react'
 
 function Header() {
   return (
-    <div className='bg-[#E6E9F6] p-6'>
+    <div className='bg-[#E6E9F6] p-6  fixed top-0 left-0 right-0'>
       <div className='flex justify-between'>
         <h4 className='font-bold'>Explore</h4>
         <h5 className='text-[#5DB075]'>Filter</h5>

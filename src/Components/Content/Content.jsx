@@ -20,7 +20,7 @@ function Content() {
 
 
     return (
-        <div className='p-4'>
+        <div className='p-4 mt-[140px] mb-[40px]'>
             {
                 
                 data.map((item,indx) => {
